@@ -1,0 +1,13 @@
+/*Decumentation section= programm defination*/
+library section = #include<headerFile>
+
+Preprocessor directivity= #define pi=3.14
+globle variable declaration
+main function()
+sub function
+
+
+
+What is data type..???
+
+
